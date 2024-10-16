@@ -1,0 +1,29 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Django migrations
+*/migrations/*
+
+# Database
+*.sqlite3
+
+# Environment variables
+.env
+
+# Static files
+/static/
+
+# Media files
+/media/
+
+# VS Code configuration
+.vscode/
+
+# JetBrains IDEs (like PyCharm) config
+.idea/
